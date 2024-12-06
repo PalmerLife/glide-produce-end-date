@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Date Processor",
+    "description": "Returns the last day of the current or next month based on the provided date.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "date",
+        "displayName": "Date",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
